@@ -1,13 +1,11 @@
 ---
 permalink: /
 author_profile: true
-title: "Homepage"
+title: "Home"
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## 👋 Hi, I'm Jin Jiang
 
 Welcome to my personal homepage! I’m a mathematics enthusiast with academic training in pure and applied math, currently focused on statistical learning theory, optimization theory, and algorithmic analysis.
 
@@ -27,7 +25,7 @@ _B.A. in Mathematics and Applied Mathematics_, 2015 – 2019
 
 ## 📄 CV
 
-- [Click here to view my CV (PDF)](https://hollowowlloh.github.io/files/CV.pdf)
+- [Click here to view my CV (PDF)](https://hollowolloh.github.io/files/CV.pdf)
 
 ---
 

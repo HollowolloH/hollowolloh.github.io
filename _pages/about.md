@@ -1,6 +1,7 @@
 ---
 permalink: /
 author_profile: true
+title: "Honmepage"
 redirect_from: 
   - /about/
   - /about.html
@@ -16,11 +17,11 @@ Welcome to my personal homepage! I’m a mathematics enthusiast with academic tr
 ## 📚 Education
 
 **University of Southern California**  
-_M.A. in Mathematics_, Aug 2021 – May 2023  
+_M.A. in Mathematics_, 2021 – 2023  
 
 
 **Shandong Agricultural University**  
-_B.A. in Mathematics and Applied Mathematics_, Aug 2015 – May 2019  
+_B.A. in Mathematics and Applied Mathematics_, 2015 – 2019  
 
 ---
 

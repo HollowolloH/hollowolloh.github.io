@@ -1,7 +1,7 @@
 ---
 permalink: /
 author_profile: true
-title: "Honmepage"
+title: "Homepage"
 redirect_from: 
   - /about/
   - /about.html

@@ -6,6 +6,8 @@ redirect_from:
   - /about.html
 ---
 
+## 👋 Hi, I'm Jin Jiang
+
 Welcome to my personal homepage! I’m a mathematics enthusiast with academic training in pure and applied math, currently focused on statistical learning theory, optimization theory, and algorithmic analysis.
 
 
@@ -13,12 +15,12 @@ Welcome to my personal homepage! I’m a mathematics enthusiast with academic tr
 
 ## 📚 Education
 
-**University of Southern California(2021 - 2023)**,
-_M.A. in Mathematics_  
+**University of Southern California**  
+_M.A. in Mathematics_, Aug 2021 – May 2023  
 
 
-**Shandong Agricultural University(2015 - 2019)**,  
-**_B.A. in Mathematics and Applied Mathematics_**  
+**Shandong Agricultural University**  
+_B.A. in Mathematics and Applied Mathematics_, Aug 2015 – May 2019  
 
 ---
 

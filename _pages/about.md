@@ -29,5 +29,4 @@ _B.A. in Mathematics and Applied Mathematics_, 2015 – 2019
 
 ---
 
-_Thanks for visiting!_
 

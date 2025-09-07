@@ -6,7 +6,10 @@ sitemap: true
 author_profile: true
 ---
 
-I am sincerely grateful to my familiy, friends, teachers and those who help me during the path of life, and truely feel fortunate to meet all of you!
+- I have wild interests in many aspects, like chinese painting & calligraphy, philosophy, and playing ping-pong, feel free to send me an email if you find anything interesting.
+
+<img src="/images/example.png" alt="本地图片" width="300" />
 
 
-<img src="/images/example.png" alt="本地图片" width="200" />
+## Acknowledgments
+- I am sincerely grateful to my familiy, friends, teachers and those who help me during the journey of life, and truely feel fortunate to meet all of you!

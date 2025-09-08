@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal homepage! I’m a mathematics enthusiast with academic training in pure and applied math, currently focused on statistical learning theory, optimization theory, and algorithmic analysis.
+Welcome to my personal homepage! I’m a mathematics enthusiast with academic training in pure and applied math, currently focused on statistical learning theory and algorithmic analysis.
 
 
 ---

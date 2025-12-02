@@ -25,7 +25,7 @@ _B.A. in Mathematics and Applied Mathematics_, 2015 – 2019
 
 ## 📄 CV
 
-- [Click here to view my CV (PDF)](https://hollowolloh.github.io/files/CV.pdf)
+- [Click here to view my CV (PDF)](https://drive.google.com/file/d/1GHGpfh3e80fTLJ5TSYXS9JYgdMh2z92L/view?usp=sharing)
 
 ---
 
